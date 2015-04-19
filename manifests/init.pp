@@ -1,6 +1,6 @@
 # Base class for phantomjs module
 class phantomjs (
-  $package_version = '1.9.7',
+  $package_version = '1.9.8',
   $source_url = undef,
   $source_dir = '/opt',
   $install_dir = '/usr/local/bin',
